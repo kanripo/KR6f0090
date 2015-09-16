@@ -1,0 +1,7 @@
+001-0348b00	T 001-0348b	buddhist/T-taisho/T37/03/T37-0348.png
+001-0348c00	T 001-0348c	buddhist/T-taisho/T37/03/T37-0348.png
+001-0349a00	T 001-0349a	buddhist/T-taisho/T37/03/T37-0349.png
+001-0349b00	T 001-0349b	buddhist/T-taisho/T37/03/T37-0349.png
+001-0349c00	T 001-0349c	buddhist/T-taisho/T37/03/T37-0349.png
+001-0350a00	T 001-0350a	buddhist/T-taisho/T37/03/T37-0350.png
+001-0350b00	T 001-0350b	buddhist/T-taisho/T37/03/T37-0350.png
